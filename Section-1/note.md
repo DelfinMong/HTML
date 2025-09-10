@@ -66,15 +66,29 @@ Basic Structure of an HTML document
 <Meta />>
 ---------------------
 
+By using this tag, we cann add meta description of web site for SEO purpose.
+Meta tag contains two attributes, one is name other one is content.
+<meta name="..." content="..." />
+<meta name="description" content="some content which is relates to your business">
+
+
+
 <style></style>
 <link/>
 ---------------------
+By using these two tags, we can add css to an HTML.
+We can control the body elements by using CSS only.
+
 
 <script></script>
 -----------------
+By using this tag, we can add Javascript to an HTML document.
 
+to provide interaction on a web page, we use script tag.
 <base />
 --------
+By using this tag, we can add JavaScript to an HTML document.
+
 
 Body Selection Elements
 -----------------------
@@ -82,3 +96,9 @@ Body Selection Elements
 Content Selection Elements
 --------------------------
 
+<p></p>
+<h1></h1> -- <h6></h6>
+<u></u>
+<i></i>
+<b></b>, <strong></strong>
+<mark></mark>
