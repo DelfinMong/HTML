@@ -98,7 +98,7 @@ Content Selection Elements
 
 <p></p>
 <h1></h1> -- <h6></h6>
-<u></u>
-<i></i>
-<b></b>, <strong></strong>
-<mark></mark>
+<u></u> - undeline
+<i></i> - italic
+<b></b> - bold <strong></strong>
+<mark></mark> - Highlight 
