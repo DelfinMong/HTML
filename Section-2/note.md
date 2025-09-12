@@ -1,4 +1,6 @@
+
 Ordering the content
+--------------------
 
 1.
 2.
@@ -29,3 +31,16 @@ List in HTML
       <li>item1</li>
       <li>item1</li>
     </ul>
+
+
+anchor tag
+----------
+
+by using this tag, we can create links, by using links, we can navigate between the web pages
+
+<a href=""></a>  -- link tag ( comes w/attributes)
+
+<a href="">Click Here</a>
+
+HTML Media Elements
+-------------------
