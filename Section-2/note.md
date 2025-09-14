@@ -42,14 +42,4 @@ by using this tag, we can create links, by using links, we can navigate between 
 
 <a href="">Click Here</a>
 
-HTML Media Elements
--------------------
 
-<img />
-<audio></audio>
-<video></video>
-<source>
-<track>
-<iframe></iframe>
-<embed></embed>
-<object></object>
